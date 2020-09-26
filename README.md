@@ -1,7 +1,7 @@
 # **Proyecto UX - Reto "How Migth We"** 
 
 
-## Indice:
+## Índice:
  * [1. Preámbulo](#1-preámbulo)
  * [2. Resumen del Proyecto](#2-resumen-del-proyecto)
  * [3. Desarrollo del Proyecto](#3-desarrollo-del-proyecto)
@@ -9,32 +9,45 @@
  * [5. Autores](#5-autores)
 ___
 
-## 1. How Migth We :thought_balloon:
-
-¿Cómo podríamos rediseñar la experiencia educativa remota para que los alumnos universitarios tengan mayor dinamismo e interacción en clase?
-
 
 ## 1. Preámbulo :loudspeaker:
 
-Pensando en la necesidad y conyuntura actual, tenemos el enfoque en estudiantes **Universitarios** que se vieron afectados por la suspensión de clases presenciales. Por lo que muchas universidades implementaron plataformas virtuales, para que los alumnos tomen clases remotas.
+El virus del Covid 19 ha cambiado la forma en que vivimos en muchos aspectos. Países de todo el mundo han tomado medidas radicales para evitar más contagios y en Perú uno de los sectores que mayor transformación ha tenido es el de la Educación, que pasó de ser presencial a totalmente remota.
 
-A la mayoría de alumnos les parece tedioso llevar día a día estas clases, ya que sienten que no es lo mismo a una clase presencial, esto a generado la perdida de interes de estar atentos a la mayoria de cursos,por la poca interaccion del profesor con los alumnos, problemas con la señal de internet. :shipit: :mag_right:
+Bajo este contexto, las universidades han implementado plataformas virtuales que permitan al alumno continuar con sus clases, seguir la metodología académica y ser calificados conforme lo indica el plan curricular, sin perjudicar su aprendizaje.
 
+Esta nueva modalidad de enseñanza ha obligado a que los estudiantes **universitarios** se adapten y aprendan a convivir con las herramientas digitales; sin embargo, muchos de ellos se sienten inconformes con la educación que están recibiendo, ya que no es de la misma calidad que solía ser de manera presencial.
 
-  ![out](https://i.pinimg.com/originals/b0/20/a2/b020a222e503adfc005b54d8585d6ad3.gif)
+Como futuras UX Designers quisimos conocer cuáles son los mayores puntos de dolor que tienen estos estudiantes y ofrecer algunas soluciones para contrarrestarlos. ¡Acompáñanos a descubrirlos!
 
 ## 2. Resumen del Proyecto :clipboard:
 
-En este proyecto crearemos soluciones, enfocado en los alumnos universitarios, que sienten inconformidad por la poca interacción en sus clases virtuales.
+Este proyecto consiste en una **guía** que brinda tips y propuestas de actividades y herramientas tecnológicas para que los estudiantes universitarios tengan una mejor experiencia educativa remota, a base de mayor dinamismo e interacción en clase.
+
+Inicialmente se entrevistó a 15 estudiantes de distintos ciclos y universidades para conocer cuáles son sus mayores frustraciones respecto a la educación remota que están recibiendo y así atacarlos en el presente proyecto. También se consiguió algunas imágenes a modo de flujogramas sobre del acceso y uso que dan, tanto alumnos como profesores, a las plataformas educativas (blackboard, zoom, classroom).
+
+Luego de conseguir todos los recursos necesarios, se avanzó con el prototipo y se fue testeando con usuarios hasta conseguir un diseño y contenido ideal.
+
+El resultado es un producto informativo, amigable y conciso para su uso inmediato.
 
 ## 3. Desarrollo del Proyecto :wrench:
 
-Investigación UX :pencil:
-
 ![metodologia_ux](https://github.com/judithmil/Reto-HMW/blob/master/metodologia%20ux.png)
 
+### DEFINIR
+
+En nuestra investigación empezamos por comprender el reto del proyecto llamado **How Migth We** para definir de manera general a nuestros usuarios y el contexto: Estudiantes universitarios que llevan clases remotas dada la coyuntura del Covid 19.
+
+### ANALIZAR
+
+El siguiente paso fue empatizar con nuestros usuarios para comprender sus problemas y necesidades.
+
+Para ello definimos el perfil del usuario:
+
+
+
 ### Organización del Trabajo (planificación): :calendar: :clipboard:
- Para realizar nuestra planificación utilizamos _JIRA_  en donde estructuramos bien las tareas que vamos a realizar en este proyecto.
+ En la planificación se utilizó _JIRA_  para estructurar a detalle las tareas a realizar en este proyecto.
  
  - [**Planning en Jira**](https://ruthcastroalva11.atlassian.net/jira/software/projects/IC/boards/1/backlog) :point_left:
  
