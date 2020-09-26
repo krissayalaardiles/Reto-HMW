@@ -1,24 +1,20 @@
-# **Proyecto UX - Reto-HMW** 
+# **Proyecto UX - Reto "How Migth We"** 
 
-## Team : INDIE CATS :dancers:
 
- * **Milusca Vega**
- * **Ruth Castro**
- * **Kriss Ayala**
+## Indice:
+ * [1. Preámbulo](#1-preámbulo)
+ * [2. Resumen del Proyecto](#2-resumen-del-proyecto)
+ * [3. Desarrollo del Proyecto](#3-desarrollo-del-proyecto)
+ * [4. Contenido de referencia](#4-contenido-de-referencia)
+ * [5. Autores](#5-autores)
 ___
-
-# Indice:
- * [1. How Migth We](#1-how-migth-we)
- * [2. Preámbulo](#1-preámbulo)
- * [3. Investigación UX](#3-investigación-ux)
- 
 
 ## 1. How Migth We :thought_balloon:
 
 ¿Cómo podríamos rediseñar la experiencia educativa remota para que los alumnos universitarios tengan mayor dinamismo e interacción en clase?
 
 
-## 2. Preámbulo:
+## 1. Preámbulo :loudspeaker:
 
 Pensando en la necesidad y conyuntura actual, tenemos el enfoque en estudiantes **Universitarios** que se vieron afectados por la suspensión de clases presenciales. Por lo que muchas universidades implementaron plataformas virtuales, para que los alumnos tomen clases remotas.
 
@@ -27,11 +23,13 @@ A la mayoría de alumnos les parece tedioso llevar día a día estas clases, ya 
 
   ![out](https://i.pinimg.com/originals/b0/20/a2/b020a222e503adfc005b54d8585d6ad3.gif)
 
-## Resumen del proyecto:
+## 2. Resumen del Proyecto :clipboard:
 
 En este proyecto crearemos soluciones, enfocado en los alumnos universitarios, que sienten inconformidad por la poca interacción en sus clases virtuales.
 
-## 3. Investigación UX :pencil:
+## 3. Desarrollo del Proyecto :wrench:
+
+Investigación UX :pencil:
 
 ![metodologia_ux](https://github.com/judithmil/Reto-HMW/blob/master/metodologia%20ux.png)
 
@@ -62,6 +60,12 @@ En este proyecto crearemos soluciones, enfocado en los alumnos universitarios, q
  
  ### Resultados: 
  
+ ## 4. Contenido de Referencia :paperclip:
+ ## 5. Autores :hearts:
 
- 
+ Team : INDIE CATS :dancers:
+
+ * **Milusca Vega**
+ * **Ruth Castro**
+ * **Kriss Ayala**
  
