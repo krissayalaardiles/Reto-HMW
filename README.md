@@ -1,5 +1,4 @@
-# **Proyecto UX - Reto "How Migth We: 
-¿Cómo podríamos rediseñar la experiencia educativa remota para que los alumnos universitarios tengan mayor dinamismo e interacción en clase?**
+# **Proyecto UX - Reto "How Migth We: ¿Cómo podríamos rediseñar la experiencia educativa remota para que los alumnos universitarios tengan mayor dinamismo e interacción en clase?**
 
 
 ## Índice:
@@ -59,12 +58,12 @@ El siguiente paso fue empatizar con nuestros usuarios para comprender sus proble
 
 > Las entrevistas fueron grabadas previo consentimiento y almacenadas en este [Drive](https://drive.google.com/drive/folders/1b-pp83bDJM_JM2Gj_joJ8Iyrqajo-XLL?usp=sharing)
 
-Así encontramos que:
+Así encontramos:
 
 * Problema Principal: **Falta de dinamismo e interacción en clases.** 
 
 Con lo que terminamos de definir nuestro reto HMW:
-**"¿Cómo podríamos rediseñar la experiencia educativa remota para que los alumnos universitarios tengan mayor dinamismo e interacción en clase?"**
+* **"¿Cómo podríamos rediseñar la experiencia educativa remota para que los alumnos universitarios tengan mayor dinamismo e interacción en clase?"**
 
 Con los resultados de las entrevistas, pasamos a definir el perfil del usuario en el cual nos basaríamos. Realizamos el siguiente **arquetipo**:
 
