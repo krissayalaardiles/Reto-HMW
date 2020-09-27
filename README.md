@@ -50,14 +50,14 @@ El siguiente paso fue empatizar con nuestros usuarios para comprender sus proble
 | Nombre | 
 | Ciclo |
 | Universidad |
-| Cuéntame cómo es tu experiencia con las clases remotas |
+| Cuéntame ¿cómo es tu experiencia con las clases remotas? |
 | ¿Qué es lo que más te molesta de tu experiencia con las clases remotas? |
 | ¿Qué mejorarías y/o implementarías para mejorar tu experiencia con las clases remotas? |
 
 > Las entrevistas fueron grabadas previo consentimiento y almacenadas en este [Drive](https://drive.google.com/drive/folders/1b-pp83bDJM_JM2Gj_joJ8Iyrqajo-XLL?usp=sharing)
 
 Así encontramos que el principal problema para los usuarios es la **falta de dinamismo e interacción en clases.** Con lo que terminamos de definir nuestro reto HMW:
-**""¿Cómo podríamos rediseñar la experiencia educativa remota para que los alumnos universitarios tengan mayor dinamismo e interacción en clase?""**
+**"¿Cómo podríamos rediseñar la experiencia educativa remota para que los alumnos universitarios tengan mayor dinamismo e interacción en clase?"**
 
 Con los resultados de las entrevistas, pasamos a definir el perfil del usuario en el cual nos basaríamos. Realizamos el siguiente **arquetipo**:
 
