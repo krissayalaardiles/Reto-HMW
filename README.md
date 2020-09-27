@@ -85,7 +85,6 @@ Entendimos que, por un lado, los estudiantes no se sienten parte de sus clases p
 Por lo que llegamos a la conclusión de que el producto ideal para solucionar estos problemas es una **guía** con un sentido de **empoderamiento** en los alumnos, para que entiendan que tienen todo el derecho de participar y sugerir acciones al profesor para tener clases más dinámicas e interactivas y así tener aprendizaje de calidad. La guía estaría en un landing page de código abierto.
 
 Realizamos **benchmarking** de las plataformas, actividades y herramientas digitales existentes en el mercado para escoger las que mejores se adapten a una clase virtual de nivel universitario. Estas deberían ser lo suficientemente entretenidas para captar la atención de los estudiantes sin despegarse del objetivo que es consolidar el aprendizaje.
-![brainstorming](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Images/Brainstorming.jpg)
 
 También definimos que los clientes de nuestro producto serían iniclamente las **Universidades de la ciudad de Lima**, por ser las de mayor alcance, y se sugerirá que se posicione en el intranet y/o sites de la universidad para que esté al alcance de todos los alumnos.
 
