@@ -41,7 +41,7 @@ El resultado es una guía informativa, amigable y concisa para su fácil entendi
 
 En nuestra investigación empezamos por comprender el reto del proyecto llamado **How Migth We** para definir de manera general a nuestros usuarios y el contexto: Estudiantes universitarios que llevan clases remotas dada la coyuntura de pandemia por el Covid 19.
 
-En la planificación se utilizó [Jira](https://ruthcastroalva11.atlassian.net/jira/software/projects/IC/boards/1/backlog) para estructurar a detalle las tareas a realizar en este proyecto.
+En la planificación se utilizó [Jira](https://ruthcastroalva11.atlassian.net/jira/software/projects/IC/boards/1/roadmap?shared=&atlOrigin=eyJpIjoiMDdkZDBiMmQ0NzJkNDUzZjliOTEyZjkyNGNlNWZmOGQiLCJwIjoiaiJ9) para estructurar a detalle las tareas a realizar en este proyecto.
 
 ### ANALIZAR :eyes:
 
