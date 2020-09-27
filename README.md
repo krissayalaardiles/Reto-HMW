@@ -1,4 +1,5 @@
-# **Proyecto UX - Reto "How Migth We"** 
+# **Proyecto UX - Reto "How Migth We: 
+¿Cómo podríamos rediseñar la experiencia educativa remota para que los alumnos universitarios tengan mayor dinamismo e interacción en clase?**
 
 
 ## Índice:
@@ -18,13 +19,15 @@ Bajo este contexto, las universidades han implementado plataformas virtuales que
 
 Esta nueva modalidad de enseñanza ha obligado a que los estudiantes **universitarios** se adapten y aprendan a convivir con herramientas digitales; sin embargo, muchos de ellos se sienten inconformes con la educación que están recibiendo, ya que no es de la misma calidad que solía ser de manera presencial.
 
+![out](https://i.pinimg.com/originals/b0/20/a2/b020a222e503adfc005b54d8585d6ad3.gif)
+
 Como futuras UX Designers quisimos conocer cuáles son los mayores puntos de dolor que tienen estos estudiantes y ofrecer algunas soluciones para contrarrestarlos. ¡Acompáñanos a descubrirlos!
 
 ## 2. Resumen del Proyecto :clipboard:
 
 Este proyecto consiste en un **landing page** a modo de **guía** que brinda tips y propuestas de actividades y herramientas tecnológicas para que los estudiantes universitarios tengan una mejor experiencia educativa remota, a base de mayor dinamismo e interacción en clase.
 
-Inicialmente se entrevistó a 15 estudiantes de diferentes ciclos y de 7 universidades distintas para conocer cuáles son sus mayores frustraciones respecto a la educación remota que están recibiendo y así atacarlos en el presente proyecto. También se consiguió algunas imágenes a modo de flujogramas sobre el acceso y uso que dan, tanto alumnos como profesores, a las plataformas educativas (blackboard, zoom, classroom).
+Inicialmente se entrevistó a 15 estudiantes de diferentes ciclos y de 7 universidades distintas para conocer cuáles son sus mayores frustraciones respecto a la educación remota que están recibiendo, encontrando que el problema principal es la **falta de dinamismo e interacción en clases.** También se consiguió algunas imágenes a modo de flujogramas sobre el acceso y uso que dan, tanto alumnos como profesores, a las plataformas educativas (blackboard, zoom, classroom).
 
 Luego de conseguir todos los recursos necesarios, se avanzó con el prototipo y se fue testeando con usuarios hasta conseguir un diseño y contenido ideal.
 
@@ -56,7 +59,11 @@ El siguiente paso fue empatizar con nuestros usuarios para comprender sus proble
 
 > Las entrevistas fueron grabadas previo consentimiento y almacenadas en este [Drive](https://drive.google.com/drive/folders/1b-pp83bDJM_JM2Gj_joJ8Iyrqajo-XLL?usp=sharing)
 
-Así encontramos que el principal problema para los usuarios es la **falta de dinamismo e interacción en clases.** Con lo que terminamos de definir nuestro reto HMW:
+Así encontramos que:
+
+* Problema Principal: **Falta de dinamismo e interacción en clases.** 
+
+Con lo que terminamos de definir nuestro reto HMW:
 **"¿Cómo podríamos rediseñar la experiencia educativa remota para que los alumnos universitarios tengan mayor dinamismo e interacción en clase?"**
 
 Con los resultados de las entrevistas, pasamos a definir el perfil del usuario en el cual nos basaríamos. Realizamos el siguiente **arquetipo**:
