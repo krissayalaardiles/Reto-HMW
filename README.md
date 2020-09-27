@@ -42,8 +42,8 @@ En la planificación se utilizó [Jira](https://ruthcastroalva11.atlassian.net/j
 
 ### ANALIZAR
 
-### Usuario
-El siguiente paso fue empatizar con nuestros usuarios para comprender sus problemas y necesidades. Para ello realizamos **entrevistas** a 15 estudiantes universitarios, vía zoom, whatsapp, llamadas telefónicas y twitter. Las preguntas fueron:
+### * Usuario
+El siguiente paso fue empatizar con nuestros usuarios para comprender sus problemas y necesidades. Para ello realizamos **entrevistas** a 15 estudiantes de distintas universidades (UNMSM, UPC, U Lima, URP, PUCP, UNFV, UNALM) vía zoom, whatsapp, llamadas telefónicas y twitter. Las preguntas fueron:
 
 | Nombre | 
 | Ciclo |
@@ -61,12 +61,12 @@ Con los resultados de las entrevistas, pasamos a definir el perfil del usuario e
 
 ![arquetipo](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Reto%20HMW.png)
 
-### Contexto
+### * Contexto
 Bajo el contexto de pandemia por el virus del Covid 19, conseguimos imágenes a modo de flujogramas de los procesos y actividades que realizan los estudiantes y profesores con las plataformas virtuales (blackboard, zoom, classroom). El objetivo de estos recursos fue comprender de qué manera se vienen usando las plataformas y si se aplican todos los servicios que ofrecen.
 
 > Las imágenes fueron almacenadas en [Drive](https://drive.google.com/drive/folders/13N5bZV3PspPKmjL4HWxix86YatMCh-LQ?usp=sharing)
 
-### Contenido
+### * Contenido
 Entendimos que, por un lado, los estudiantes no se sienten parte de sus clases por la falta de oportunidades para participar, la falta de espacios para interactuar y coordinar con los compañeros, las clases monótonas, entre otras causas. Y que por otro lado, los profesores no están lo suficientemente capacitados para usar todos los beneficios de las plataformas, estar atentos a las señales de pregunta de sus alumnos, entre otras. 
 
 Por lo que llegamos a la conclusión de que el producto ideal para solucionar estos problemas es una **guía** con un sentido de **empoderamiento** en los alumnos, para que entiendan que tienen todo el derecho de participar y sugerir acciones al profesor para tener clases más dinámicas e interactivas y así tener aprendizaje de calidad. La guía estaría en un landing page de código abierto.
