@@ -61,7 +61,7 @@ El siguiente paso fue empatizar con nuestros usuarios para comprender sus proble
 
 > Las entrevistas fueron grabadas previo consentimiento y almacenadas en este [Drive](https://drive.google.com/drive/folders/1b-pp83bDJM_JM2Gj_joJ8Iyrqajo-XLL?usp=sharing)
 
-![problemas](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Images/Problemas.jpg)
+![problemas](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Images/Problemas_encontrados.jpg)
 
 Así encontramos:
 
