@@ -82,7 +82,7 @@ También definimos que los clientes de nuestro producto serían iniclamente las 
 Para proyectar una solución que satisfaga las necesidades encontradas de nuestros usuarios, generamos un [**brainstorming**](https://miro.com/app/board/o9J_kpG9RQU=/?userEmail=ruthcastroalva11@gmail.com&invite=2aaaaaabb27904098bb10bb72088f1e7-b6a57eec53a26027-756ec2f75a62b56f-9dcd287f4a9e5062&event=mailInvite&mailUserEmail=ruthcastroalva11@gmail.com&track=true&utm_source=notification&utm_medium=email&utm_campaign=invite-to-team-and-board&utm_content=accept-invitation) con todo el posible contenido que tendría nuestra guía. Escogimos las más viables y pasamos a realizar un [**mapeo de contenido**](https://miro.com/app/board/o9J_kpG9RQU=/?userEmail=ruthcastroalva11@gmail.com&invite=2aaaaaabb27904098bb10bb72088f1e7-b6a57eec53a26027-756ec2f75a62b56f-9dcd287f4a9e5062&event=mailInvite&mailUserEmail=ruthcastroalva11@gmail.com&track=true&utm_source=notification&utm_medium=email&utm_campaign=invite-to-team-and-board&utm_content=accept-invitation) para definir la estructura del producto en cuanto a taxonomía y organización.
 
 Luego hicimos un [**user flow**](https://www.figma.com/file/DHCUzPt5n5AmavfW2VhS4O/?node-id=2%3A2) para diagramar el funcionamiento de la guía.
-![UserFlow] (https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Reto%20HMW%402x.png)
+![UserFlow](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Reto%20HMW%402x.png)
 
 ### PROTOTIPAR :art:
 
