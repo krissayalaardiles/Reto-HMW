@@ -43,6 +43,8 @@ En nuestra investigación empezamos por comprender el reto del proyecto llamado 
 
 En la planificación se utilizó [Jira](https://ruthcastroalva11.atlassian.net/jira/software/projects/IC/boards/1/roadmap?shared=&atlOrigin=eyJpIjoiMDdkZDBiMmQ0NzJkNDUzZjliOTEyZjkyNGNlNWZmOGQiLCJwIjoiaiJ9) para estructurar a detalle las tareas a realizar en este proyecto.
 
+![Planning_Jira](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Jira.png)
+
 ### ANALIZAR :eyes:
 
 ### * Usuario
