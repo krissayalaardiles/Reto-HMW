@@ -45,8 +45,9 @@ En la planificación se utilizó [Jira](https://ruthcastroalva11.atlassian.net/j
 ### * Usuario
 El siguiente paso fue empatizar con nuestros usuarios para comprender sus problemas y necesidades. Para ello realizamos **entrevistas** a 15 estudiantes de distintas universidades (UNMSM, UPC, U Lima, URP, PUCP, UNFV, UNALM) vía zoom, whatsapp, llamadas telefónicas y twitter. Las preguntas fueron:
 
+|Preguntas|
+|:------|
 | Nombre | 
-| ------|
 | Ciclo |
 | Universidad |
 | Cuéntame cómo es tu experiencia con las clases remotas |
