@@ -35,7 +35,7 @@ El resultado es una guía informativa, amigable y concisa para su fácil entendi
 
 ## 3. Desarrollo del Proyecto :wrench:
 
-![metodologia_ux](https://github.com/judithmil/Reto-HMW/blob/master/metodologia%20ux.png)
+![metodologia_ux](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Images/metodologia%20ux.png)
 
 ### DEFINIR :dart:
 
@@ -43,7 +43,7 @@ En nuestra investigación empezamos por comprender el reto del proyecto llamado 
 
 En la planificación se utilizó [Jira](https://ruthcastroalva11.atlassian.net/jira/software/projects/IC/boards/1/roadmap?shared=&atlOrigin=eyJpIjoiMDdkZDBiMmQ0NzJkNDUzZjliOTEyZjkyNGNlNWZmOGQiLCJwIjoiaiJ9) para estructurar a detalle las tareas a realizar en este proyecto.
 
-![Planning_Jira](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Jira.png)
+![Planning_Jira](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Images/Jira.png)
 
 ### ANALIZAR :eyes:
 
@@ -61,6 +61,8 @@ El siguiente paso fue empatizar con nuestros usuarios para comprender sus proble
 
 > Las entrevistas fueron grabadas previo consentimiento y almacenadas en este [Drive](https://drive.google.com/drive/folders/1b-pp83bDJM_JM2Gj_joJ8Iyrqajo-XLL?usp=sharing)
 
+![problemas](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Images/Problemas.jpg)
+
 Así encontramos:
 
 * Problema Principal: **Falta de dinamismo e interacción en clases.** 
@@ -70,7 +72,7 @@ Con lo que terminamos de definir nuestro reto HMW:
 
 Con los resultados de las entrevistas, pasamos a definir el perfil del usuario en el cual nos basaríamos. Realizamos el siguiente **arquetipo**:
 
-![arquetipo](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Reto%20HMW.png)
+![arquetipo](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Images/Arquetipo.png)
 
 ### * Contexto
 Bajo el contexto de pandemia por el virus del Covid 19, conseguimos imágenes a modo de flujogramas de los procesos y actividades que realizan los estudiantes y profesores con las plataformas virtuales (blackboard, zoom, classroom). El objetivo de estos recursos fue comprender de qué manera se vienen usando las plataformas y si se aplican todos los servicios que ofrecen.
@@ -83,28 +85,38 @@ Entendimos que, por un lado, los estudiantes no se sienten parte de sus clases p
 Por lo que llegamos a la conclusión de que el producto ideal para solucionar estos problemas es una **guía** con un sentido de **empoderamiento** en los alumnos, para que entiendan que tienen todo el derecho de participar y sugerir acciones al profesor para tener clases más dinámicas e interactivas y así tener aprendizaje de calidad. La guía estaría en un landing page de código abierto.
 
 Realizamos **benchmarking** de las plataformas, actividades y herramientas digitales existentes en el mercado para escoger las que mejores se adapten a una clase virtual de nivel universitario. Estas deberían ser lo suficientemente entretenidas para captar la atención de los estudiantes sin despegarse del objetivo que es consolidar el aprendizaje.
+![brainstorming](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Images/Brainstorming.jpg)
 
 También definimos que los clientes de nuestro producto serían iniclamente las **Universidades de la ciudad de Lima**, por ser las de mayor alcance, y se sugerirá que se posicione en el intranet y/o sites de la universidad para que esté al alcance de todos los alumnos.
 
 ### DISEÑAR :bulb:
 
-Para proyectar una solución que satisfaga las necesidades encontradas de nuestros usuarios, generamos un [**brainstorming**](https://miro.com/app/board/o9J_kpG9RQU=/?userEmail=ruthcastroalva11@gmail.com&invite=2aaaaaabb27904098bb10bb72088f1e7-b6a57eec53a26027-756ec2f75a62b56f-9dcd287f4a9e5062&event=mailInvite&mailUserEmail=ruthcastroalva11@gmail.com&track=true&utm_source=notification&utm_medium=email&utm_campaign=invite-to-team-and-board&utm_content=accept-invitation) con todo el posible contenido que tendría nuestra guía. Escogimos las más viables y pasamos a realizar un [**mapeo de contenido**](https://miro.com/app/board/o9J_kpG9RQU=/?userEmail=ruthcastroalva11@gmail.com&invite=2aaaaaabb27904098bb10bb72088f1e7-b6a57eec53a26027-756ec2f75a62b56f-9dcd287f4a9e5062&event=mailInvite&mailUserEmail=ruthcastroalva11@gmail.com&track=true&utm_source=notification&utm_medium=email&utm_campaign=invite-to-team-and-board&utm_content=accept-invitation) para definir la estructura del producto en cuanto a taxonomía y organización.
+Para proyectar una solución que satisfaga las necesidades encontradas de nuestros usuarios, generamos un [**brainstorming**](https://miro.com/app/board/o9J_kpG9RQU=/?userEmail=ruthcastroalva11@gmail.com&invite=2aaaaaabb27904098bb10bb72088f1e7-b6a57eec53a26027-756ec2f75a62b56f-9dcd287f4a9e5062&event=mailInvite&mailUserEmail=ruthcastroalva11@gmail.com&track=true&utm_source=notification&utm_medium=email&utm_campaign=invite-to-team-and-board&utm_content=accept-invitation) con todo el posible contenido que tendría nuestra guía. 
 
-Luego hicimos un [**user flow**](https://www.figma.com/file/DHCUzPt5n5AmavfW2VhS4O/?node-id=2%3A2) para diagramar el funcionamiento de la guía.
-![UserFlow](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Reto%20HMW%402x.png)
+![brainstorming](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Images/Brainstorming.jpg)
+
+Escogimos las más viables y pasamos a realizar un [**mapeo de contenido**](https://miro.com/app/board/o9J_kpG9RQU=/?userEmail=ruthcastroalva11@gmail.com&invite=2aaaaaabb27904098bb10bb72088f1e7-b6a57eec53a26027-756ec2f75a62b56f-9dcd287f4a9e5062&event=mailInvite&mailUserEmail=ruthcastroalva11@gmail.com&track=true&utm_source=notification&utm_medium=email&utm_campaign=invite-to-team-and-board&utm_content=accept-invitation) para definir la estructura del producto en cuanto a taxonomía y organización.
+
+![mapa-contenido](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Images/Mapa%20de%20contenido.jpg)
+
+Luego hicimos un [**user flow**](https://www.figma.com/proto/DHCUzPt5n5AmavfW2VhS4O/Reto-HMW?node-id=4%3A2&scaling=min-zoom) para diagramar el funcionamiento de la guía.
+![UserFlow](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Images/User%20Flow.png)
 
 ### PROTOTIPAR :art:
 
 ### Prototipo de Media Fidelidad:
 Desarrollamos dinámicamente la siguiente solución:
 
+![prototipo-media](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Images/Prototipo_de_media.png)
 
-> El feedback recibido fue el de especificar el contexto y los hallazgos, así como definir de manera más precisa las dinámicas, herramientas y colocar links que los dirija a las páginas oficiales.
+> El feedback recibido fue el de especificar el contexto y los hallazgos, así como definir de manera más precisa las dinámicas, herramientas y colocar links que los dirija a las páginas oficiales. Lo puedes ver en [Figma](https://www.figma.com/proto/DHCUzPt5n5AmavfW2VhS4O/Reto-HMW?node-id=90%3A0&scaling=scale-down-width)
  
 ### Prototipo de Alta Fidelidad:
 El prototipo final es el siguiente:
 
-> Lo puedes ver en [Figma](https://www.figma.com/file/DHCUzPt5n5AmavfW2VhS4O/?node-id=214%3A2)
+![prototipo-media](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Images/Prototipo_de_alta.png)
+
+> Lo puedes ver en [Figma](https://www.figma.com/proto/DHCUzPt5n5AmavfW2VhS4O/Reto-HMW?node-id=276%3A1&scaling=scale-down-width)
 
 ### TESTEAR :heavy_check_mark: 
 Testeamos cada parte del prototipo para comprobar el valor que se iba agregando y así asegurarnos de su total entendimiento.
@@ -112,7 +124,7 @@ Testeamos cada parte del prototipo para comprobar el valor que se iba agregando 
 ## 4. Contenido de Referencia :paperclip:
 
 ### Herramientas
-* Herramienta de planificación: [Jira](https://ruthcastroalva11.atlassian.net/jira/software/projects/IC/boards/1/backlog)
+* Herramienta de planificación: [Jira](https://www.atlassian.com/software/jira)
 * Herramienta de diseño visual: [Figma](https://www.figma.com/).
 * Web de íconos diversos: [Flaticon](https://www.flaticon.com/).
 * Repositorio de contenido: [GitHub](https://github.com/)
