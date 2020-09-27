@@ -34,13 +34,13 @@ El resultado es una guía informativa, amigable y concisa para su fácil entendi
 
 ![metodologia_ux](https://github.com/judithmil/Reto-HMW/blob/master/metodologia%20ux.png)
 
-### DEFINIR
+### DEFINIR :dart:
 
 En nuestra investigación empezamos por comprender el reto del proyecto llamado **How Migth We** para definir de manera general a nuestros usuarios y el contexto: Estudiantes universitarios que llevan clases remotas dada la coyuntura de pandemia por el Covid 19.
 
 En la planificación se utilizó [Jira](https://ruthcastroalva11.atlassian.net/jira/software/projects/IC/boards/1/backlog) para estructurar a detalle las tareas a realizar en este proyecto.
 
-### ANALIZAR
+### ANALIZAR :eyes:
 
 ### * Usuario
 El siguiente paso fue empatizar con nuestros usuarios para comprender sus problemas y necesidades. Para ello realizamos **entrevistas** a 15 estudiantes de distintas universidades (UNMSM, UPC, U Lima, URP, PUCP, UNFV, UNALM) vía zoom, whatsapp, llamadas telefónicas y twitter. Las preguntas fueron:
@@ -77,26 +77,26 @@ Realizamos **benchmarking** de las plataformas, actividades y herramientas digit
 
 También definimos que los clientes de nuestro producto serían iniclamente las **Universidades de la ciudad de Lima**, por ser las de mayor alcance, y se sugerirá que se posicione en el intranet y/o sites de la universidad para que esté al alcance de todos los alumnos.
 
-### DISEÑAR
+### DISEÑAR :bulb:
 
 Para proyectar una solución que satisfaga las necesidades encontradas de nuestros usuarios, generamos un [**brainstorming**](https://miro.com/app/board/o9J_kpG9RQU=/?userEmail=ruthcastroalva11@gmail.com&invite=2aaaaaabb27904098bb10bb72088f1e7-b6a57eec53a26027-756ec2f75a62b56f-9dcd287f4a9e5062&event=mailInvite&mailUserEmail=ruthcastroalva11@gmail.com&track=true&utm_source=notification&utm_medium=email&utm_campaign=invite-to-team-and-board&utm_content=accept-invitation) con todo el posible contenido que tendría nuestra guía. Escogimos las más viables y pasamos a realizar un [**mapeo de contenido**](https://miro.com/app/board/o9J_kpG9RQU=/?userEmail=ruthcastroalva11@gmail.com&invite=2aaaaaabb27904098bb10bb72088f1e7-b6a57eec53a26027-756ec2f75a62b56f-9dcd287f4a9e5062&event=mailInvite&mailUserEmail=ruthcastroalva11@gmail.com&track=true&utm_source=notification&utm_medium=email&utm_campaign=invite-to-team-and-board&utm_content=accept-invitation) para definir la estructura del producto en cuanto a taxonomía y organización.
 
 Luego hicimos un [**user flow**](https://www.figma.com/file/DHCUzPt5n5AmavfW2VhS4O/?node-id=2%3A2) para diagramar el funcionamiento de la guía.
 
-### PROTOTIPAR
+### PROTOTIPAR :art:
 
-### Prototipo de Media Fidelidad: :pencil2:
+### Prototipo de Media Fidelidad:
 Desarrollamos dinámicamente la siguiente solución:
 
 
 > El feedback recibido fue el de especificar el contexto y los hallazgos, así como definir de manera más precisa las dinámicas, herramientas y colocar links que los dirija a las páginas oficiales.
  
-### Prototipo de Alta Fidelidad: :art:
+### Prototipo de Alta Fidelidad:
 El prototipo final es el siguiente:
 
 > Lo puedes ver en [Figma](https://www.figma.com/file/DHCUzPt5n5AmavfW2VhS4O/?node-id=214%3A2)
 
-### TESTEAR
+### TESTEAR :heavy_check_mark: 
 Testeamos cada parte del prototipo para comprobar el valor que se iba agregando y así asegurarnos de su total entendimiento.
 
 ## 4. Contenido de Referencia :paperclip:
