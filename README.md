@@ -35,6 +35,8 @@ El resultado es una guía informativa, amigable y concisa para su fácil entendi
 
 ## 3. Desarrollo del Proyecto :wrench:
 
+Seguimos la metodología del Design Thinking:
+
 ![metodologia_ux](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Images/metodologia%20ux.png)
 
 ### DEFINIR :dart:
